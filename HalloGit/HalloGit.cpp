@@ -6,14 +6,11 @@
 
 int main()
 {
-	for (int i = 0; i < 100; i++)
+	for (int i = 0; i < 1000; i++)
 	{
 		printf("hallo git \r\n");
 	}
-	for (int i = 0; i < 100000; i++)
-	{
-
-	}
+	
 	
     return 0;
 }
