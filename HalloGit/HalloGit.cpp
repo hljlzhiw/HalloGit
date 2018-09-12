@@ -6,6 +6,15 @@
 
 int main()
 {
+	for (int i = 0; i < 100; i++)
+	{
+		printf("hallo git \r\n");
+	}
+	for (int i = 0; i < 100000; i++)
+	{
+
+	}
+	
     return 0;
 }
 
